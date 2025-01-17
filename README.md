@@ -96,7 +96,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ![annabergite's GitHub stats](https://github-readme-stats.vercel.app/api?username=annabergite)
 
