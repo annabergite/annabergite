@@ -2,6 +2,13 @@
 <img src="" align="center" style="width: 100%" />
 </div>  
   
+## Connect with me  
+
+-  BiliBili：[个人空间](https://space.bilibili.com/346345909)
+-  掘金：[艾迪的技术之路]([url](https://juejin.cn/user/2744837165290328))
+  
+
+<br/>  
 
 ### <div align="center">I'm Annabergite, a backend-stack developer 👨‍💻 working since 2022 🚀 </div>  
   
@@ -62,22 +69,12 @@
 <br/>  
 
 
-## Connect with me  
-  
-
-<br/>  
 
 
 ## Github Stats  
   
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
