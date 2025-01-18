@@ -5,7 +5,7 @@
 ## Connect with me  
 
 -  BiliBili：[Kola的个人空间](https://space.bilibili.com/346345909)
--  掘金：[艾迪的技术之路]((https://juejin.cn/user/2744837165290328)
+-  掘金：[艾迪的技术之路](https://juejin.cn/user/2744837165290328)
   
 
 <br/>  
