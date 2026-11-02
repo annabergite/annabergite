@@ -42,7 +42,7 @@
 ### 📮 联系我
 
 - 📧 邮箱：[ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com)
-- 💬 微信：加我备注 `GitHub`
+- 💬 微信：加我备注 `git`
 
 <div align="center">
   <img src="images/Qcode_wechat_1.png" alt="微信二维码" width="200" />
