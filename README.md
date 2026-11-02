@@ -45,7 +45,7 @@
 - 💬 微信：加我备注 `GitHub`
 
 <div align="center">
-  <img src="images/wechat.png" alt="微信二维码" width="200" />
+  <img src="images/Qcode_wechat_1.png" alt="微信二维码" width="200" />
 </div>
 
 ### 📊 GitHub
