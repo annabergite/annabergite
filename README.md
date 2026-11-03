@@ -15,48 +15,29 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 👨‍💻 关于我 / About Me
 
 - 前大厂工程师，Java 后端出身，正在转型 **Java + Agent** | Ex-Big-Tech engineer with a Java backend background, transitioning into **Java + Agent**
 - ❤️ 热爱生活：吹水、跑步、骑行、健身，都可以加我 | Love life — chatting, running, cycling, fitness
 
-### 🧭 感兴趣 / Interests
-
-- 🤖 Agent Harness
-- 🐹 Go
-- 🏗️ System Design（底层 / Low-level）
-- 🐧 Linux（底层 / Low-level）
-
-### 🗓️ 年度主题 / Yearly Themes
-
-| 年份 Year | 主题 Theme |
-| --- | --- |
-| 2023 | 各项交付 · Delivery |
-| 2024 | 源码阅读 · Source Code Reading |
-| 2025 | 软实力提升 · Soft Skills |
-| 2026 | Agent 学习 · Agent Learning |
-
-</td>
-<td width="50%" valign="top">
-
-### 📮 联系 / Contact
-
-📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com) · 💬 WeChat：备注 `git`
+### 📈 活动概览 / Activity Overview
 
 <div align="center">
-  <img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
+  <img src="images/activity.svg" alt="活动概览 Activity Overview" />
 </div>
 
 ### 📊 语言分布 / Languages
 
 <div align="center">
-  <img src="images/languages.svg" alt="语言分布 / Top Languages" />
+  <img src="images/languages.svg" alt="语言分布 Top Languages" />
 </div>
 
-</td>
-</tr>
-</table>
+### 📮 联系 / Contact
+
+<div align="center">
+
+📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com) · 💬 WeChat：备注 `git`
+
+<img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
+
+</div>
