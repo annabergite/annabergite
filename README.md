@@ -20,18 +20,29 @@
 - 前大厂工程师，Java 后端出身，正在转型 **Java + Agent** | Ex-Big-Tech engineer with a Java backend background, transitioning into **Java + Agent**
 - ❤️ 热爱生活：吹水、跑步、骑行、健身，都可以加我 | Love life — chatting, running, cycling, fitness
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 语言分布 / Languages
 
 <div align="center">
   <img src="images/languages.svg" alt="语言分布 Top Languages" />
 </div>
 
+</td>
+<td width="50%" valign="top">
+
 ### 📮 联系 / Contact
 
+📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com)
+
+💬 WeChat：备注 `git`
+
 <div align="center">
-
-📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com) · 💬 WeChat：备注 `git`
-
-<img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
-
+  <img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
 </div>
+
+</td>
+</tr>
+</table>
