@@ -43,15 +43,6 @@
 </td>
 <td width="50%" valign="top">
 
-### 🚀 项目 / Projects
-
-| 项目 | 技术栈 | 创建 | ⭐ |
-| --- | --- | --- | --- |
-| [abg-cloud](https://github.com/annabergite/abg-cloud) | Java · Spring Boot | 2023 | 600+ |
-| [Java-scaffold](https://github.com/annabergite/Java-scaffold) | Java | 2023 | — |
-| [ai-deposit-guard](https://github.com/annabergite/ai-deposit-guard) | Java · Spring Boot · AI Agent | 2026 | — |
-| [ocr-wx](https://github.com/annabergite/ocr-wx) | Python · Flask · Mini Program | 2022 | 1 |
-
 ### 📮 联系 / Contact
 
 📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com) · 💬 WeChat：备注 `git`
@@ -60,20 +51,12 @@
   <img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
 </div>
 
+### 📊 语言分布 / Languages
+
+<div align="center">
+  <img src="images/languages.svg" alt="语言分布 / Top Languages" />
+</div>
+
 </td>
 </tr>
 </table>
-
----
-
-### 📊 数据 / Stats
-
-<div align="center">
-  <img src="https://stats.justsong.cn/api/github?username=annabergite" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
-  <img src="images/languages.svg" alt="语言分布 / Top Languages" />
-
-</div>
