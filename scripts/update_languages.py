@@ -5,7 +5,7 @@ import os
 import urllib.request
 
 USER = "annabergite"
-EXCLUDE = {"HTML", "CSS"}  # 博客静态资源，不计入代码语言分布
+EXCLUDE = set()  # 全量包含所有语言
 
 COLORS = {
     "Java": "#b07219",
@@ -24,6 +24,8 @@ COLORS = {
     "PHP": "#4F5D95",
     "Ruby": "#701516",
     "Swift": "#F05138",
+    "HTML": "#e34c26",
+    "CSS": "#563d7c",
 }
 
 
@@ -42,8 +44,6 @@ def main():
     repos = api("/users/%s/repos?per_page=100" % USER)
     langs = {}
     for repo in repos:
-        if repo.get("fork") or repo.get("archived"):
-            continue
         try:
             data = api("/repos/%s/%s/languages" % (USER, repo["name"]))
         except Exception:
