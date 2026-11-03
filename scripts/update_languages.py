@@ -5,7 +5,7 @@ import os
 import urllib.request
 
 USER = "annabergite"
-EXCLUDE = set()  # 全量包含所有语言
+EXCLUDE = {"HTML", "CSS", "JavaScript", "TypeScript", "Vue", "SCSS", "Sass", "Less"}  # 前端语言不计入
 
 COLORS = {
     "Java": "#b07219",
@@ -54,7 +54,7 @@ def main():
             langs[lang] = langs.get(lang, 0) + size
 
     total = sum(langs.values()) or 1
-    items = sorted(langs.items(), key=lambda kv: -kv[1])[:4]
+    items = sorted(langs.items(), key=lambda kv: -kv[1])[:3]
 
     width = 400
     pad = 18
