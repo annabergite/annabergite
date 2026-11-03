@@ -20,12 +20,6 @@
 - 前大厂工程师，Java 后端出身，正在转型 **Java + Agent** | Ex-Big-Tech engineer with a Java backend background, transitioning into **Java + Agent**
 - ❤️ 热爱生活：吹水、跑步、骑行、健身，都可以加我 | Love life — chatting, running, cycling, fitness
 
-### 📈 活动概览 / Activity Overview
-
-<div align="center">
-  <img src="images/activity.svg" alt="活动概览 Activity Overview" />
-</div>
-
 ### 📊 语言分布 / Languages
 
 <div align="center">
