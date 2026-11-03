@@ -54,7 +54,7 @@ def main():
             langs[lang] = langs.get(lang, 0) + size
 
     total = sum(langs.values()) or 1
-    items = sorted(langs.items(), key=lambda kv: -kv[1])[:6]
+    items = sorted(langs.items(), key=lambda kv: -kv[1])[:4]
 
     width = 400
     pad = 18
