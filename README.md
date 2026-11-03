@@ -11,13 +11,6 @@
 [![Juejin 掘金](https://img.shields.io/badge/Juejin_掘金-1E80FF?style=flat-square)](https://juejin.cn/user/2744837165290328)
 [![Email](https://img.shields.io/badge/Email-ziboqizhong%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ziboqizhong@outlook.com)
 
-![Location](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fannabergite&label=Location&query=%24.location&style=flat-square&color=0969DA)
-![Followers](https://img.shields.io/github/followers/annabergite?label=Followers&style=flat-square&color=0969DA)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fannabergite&label=Following&query=%24.following&style=flat-square&color=8250DF)
-![Total Stars](https://img.shields.io/github/stars/annabergite?label=Stars&style=flat-square&color=FBCA04)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fannabergite&label=Repos&query=%24.public_repos&style=flat-square&color=2EA44F)
-![abg-cloud ⭐](https://img.shields.io/github/stars/annabergite/abg-cloud?label=abg-cloud&style=flat-square&color=FBCA04)
-
 </div>
 
 ---
@@ -70,3 +63,17 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 数据 / Stats
+
+<div align="center">
+  <img src="https://stats.justsong.cn/api/github?username=annabergite" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+
+**语言分布 / Languages**（不含博客静态 HTML/CSS）：`Java ███████░░░ 70%` · `JavaScript ███░░░░░░░ 29%` · `其他 1%`
+
+</div>
