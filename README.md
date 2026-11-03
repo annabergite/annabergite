@@ -74,6 +74,6 @@
 
 <div align="center">
 
-**语言分布 / Languages**（不含博客静态 HTML/CSS）：`Java ███████░░░ 70%` · `JavaScript ███░░░░░░░ 29%` · `其他 1%`
+  <img src="images/languages.svg" alt="语言分布 / Top Languages" />
 
 </div>
