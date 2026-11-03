@@ -32,6 +32,6 @@
 
 📧 [ziboqizhong@outlook.com](mailto:ziboqizhong@outlook.com) · 💬 WeChat：备注 `git`
 
-<img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="150" />
+<img src="images/Qcode_wechat_1.png" alt="微信 WeChat" width="180" />
 
 </div>
